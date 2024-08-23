@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "quote": "Any sufficiently advanced technology is indistinguishable from magic. (Arthur C. Clarke)"
+    },
+    {
+        "id": 2,
+        "quote": "Innovation distinguishes between a leader and a follower. (Steve Jobs)"
+    },
+    {
+        "id": 3,
+        "quote": "Learning never exhausts the mind. (Leonardo da Vinci)"
+    },
+    {
+        "id": 4,
+        "quote": "Engineering is the art of directing the great sources of power in nature for the use and convenience of man. (Thomas Tredgold)"
+    },
+    {
+        "id": 5,
+        "quote": "The computer was born to solve problems that did not exist before. (Bill Gates)"
+    },
+    {
+        "id": 6,
+        "quote": "The best way to predict the future is to invent it. (Alan Kay)"
+    },
+    {
+        "id": 7,
+        "quote": "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice. (Brian Herbert)"
+    },
+    {
+        "id": 8,
+        "quote": "Scientists study the world as it is; engineers create the world that has never been. (Theodore von Kármán)"
+    },
+    {
+        "id": 9,
+        "quote": "The function of good software is to make the complex appear to be simple. (Grady Booch)"
+    },
+    {
+        "id": 10,
+        "quote": "Innovation is the ability to see change as an opportunity, not a threat. (Steve Jobs)"
+    },
+    {
+        "id": 11,
+        "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever. (Mahatma Gandhi)"
+    },
+    {
+        "id": 12,
+        "quote": "Engineers like to solve problems. If there are no problems handily available, they will create their own problems. (Scott Adams)"
+    },
+    {
+        "id": 13,
+        "quote": "Programs must be written for people to read, and only incidentally for machines to execute. (Harold Abelson)"
+    },
+    {
+        "id": 14,
+        "quote": "The only way to discover the limits of the possible is to go beyond them into the impossible. (Arthur C. Clarke)"
+    },
+    {
+        "id": 15,
+        "quote": "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. (Henry Ford)"
+    },
+    {
+        "id": 16,
+        "quote": "The engineer has been, and is, a maker of history. (James Kip Finch)"
+    },
+    {
+        "id": 17,
+        "quote": "First, solve the problem. Then, write the code. (John Johnson)"
+    },
+    {
+        "id": 18,
+        "quote": "Creativity is thinking up new things. Innovation is doing new things. (Theodore Levitt)"
+    },
+    {
+        "id": 19,
+        "quote": "The beautiful thing about learning is that nobody can take it away from you. (B.B. King)"
+    },
+    {
+        "id": 20,
+        "quote": "A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. (Freeman Dyson)"
+    },
+    {
+        "id": 21,
+        "quote": "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. (Edsger W. Dijkstra)"
+    },
+    {
+        "id": 22,
+        "quote": "Innovation requires no special talent – it’s about being in the right place at the right time and seizing the opportunity. (Anonymous)"
+    },
+    {
+        "id": 23,
+        "quote": "He who learns but does not think, is lost! He who thinks but does not learn is in great danger. (Confucius)"
+    },
+    {
+        "id": 24,
+        "quote": "Engineering is not merely knowing and being knowledgeable; engineering is not merely analysis; engineering is not merely the possession of the capacity to get elegant solutions to non-existent engineering problems; engineering is practicing the art of the organized forcing of technological change. (Dean Gordon Brown)"
+    },
+    {
+        "id": 25,
+        "quote": "Computer science is no more about computers than astronomy is about telescopes. (Edsger W. Dijkstra)"
+    },
+    {
+        "id": 26,
+        "quote": "Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. (Dean Kamen)"
+    },
+    {
+        "id": 27,
+        "quote": "Learning is not attained by chance; it must be sought for with ardor and attended to with diligence. (Abigail Adams)"
+    },
+    {
+        "id": 28,
+        "quote": "As engineers, we were going to be in a position to change the world – not just study it. (Henry Petroski)"
+    },
+    {
+        "id": 29,
+        "quote": "The most damaging phrase in the language is: 'It's always been done that way.' (Grace Hopper)"
+    },
+    {
+        "id": 30,
+        "quote": "Innovation is the unrelenting drive to break the status quo and develop anew where few have dared to go. (Steven Jeffes)"
+    },
+    {
+        "id": 31,
+        "quote": "The mind is not a vessel to be filled, but a fire to be kindled. (Plutarch)"
+    },
+    {
+        "id": 32,
+        "quote": "At its heart, engineering is about using science to find creative, practical solutions. It is a noble profession. (Queen Elizabeth II)"
+    },
+    {
+        "id": 33,
+        "quote": "To understand recursion, you must first understand recursion. (Unknown)"
+    },
+    {
+        "id": 34,
+        "quote": "Without change there is no innovation, creativity, or incentive for improvement. (William Pollard)"
+    },
+    {
+        "id": 35,
+        "quote": "The more I read, the more I acquire, the more certain I am that I know nothing. (Voltaire)"
+    },
+    {
+        "id": 36,
+        "quote": "To be an engineer is to learn to stop worrying and love the wrench. (Unknown)"
+    },
+    {
+        "id": 37,
+        "quote": "Talk is cheap. Show me the code. (Linus Torvalds)"
+    },
+    {
+        "id": 38,
+        "quote": "The world is changing very fast. Big will not beat small anymore. It will be the fast beating the slow. (Rupert Murdoch)"
+    },
+    {
+        "id": 39,
+        "quote": "In learning, you will teach, and in teaching, you will learn. (Phil Collins)"
+    },
+    {
+        "id": 40,
+        "quote": "The fewer moving parts, the better. (Anonymous)"
+    },
+    {
+        "id": 41,
+        "quote": "Innovation comes from the producer – not from the customer. (W. Edwards Deming)"
+    },
+    {
+        "id": 42,
+        "quote": "An investment in knowledge pays the best interest. (Benjamin Franklin)"
+    },
+    {
+        "id": 43,
+        "quote": "Engineers like to solve problems. If there are no problems handily available, they will create their own problems. (Scott Adams)"
+    },
+    {
+        "id": 44,
+        "quote": "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. (Alvin Toffler)"
+    },
+    {
+        "id": 45,
+        "quote": "The only real mistake is the one from which we learn nothing. (Henry Ford)"
+    },
+    {
+        "id": 46,
+        "quote": "At its heart, engineering is about using science to find creative, practical solutions. It is a noble profession. (Queen Elizabeth II)"
+    },
+    {
+        "id": 47,
+        "quote": "Innovation is the unrelenting drive to break the status quo and develop anew where few have dared to go. (Steven Jeffes)"
+    },
+    {
+        "id": 48,
+        "quote": "Creativity is thinking up new things. Innovation is doing new things. (Theodore Levitt)"
+    },
+    {
+        "id": 49,
+        "quote": "Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins. (Jim Rohn)"
+    },
+    {
+        "id": 50,
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit. (Aristotle)"
+    }
+]
